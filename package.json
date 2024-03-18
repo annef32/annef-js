@@ -1,0 +1,28 @@
+{
+  "name": "annef-js",
+  "version": "1.0.0",
+  "description": "Annef-js is a Node.js module that provides various cryptographic utilities, including random hex string generation, AES-256-CBC encryption and decryption, and fetching data from a URL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/annef32/annef-js"
+  },
+  "dependencies": {
+	  "elizabethmiller-v2": "1.0.0",
+"js-edwardcollins": "1.0.0",
+"mod-sandrajones": "1.0.0",
+"cell-potapovvlad": "1.0.0",
+"annef-js": "1.0.0",
+"vo21-module": "1.0.0",
+    "axios": "^0.24.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annef32/annef-js/issues"
+  },
+  "homepage": "https://github.com/annef32/annef-js#readme"
+}
